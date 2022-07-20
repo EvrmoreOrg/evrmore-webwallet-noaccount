@@ -1,3 +1,7 @@
+Migration to Evrmore not yet done.
+
+This repository was forked from https://github.com/pointbiz/bitaddress.org
+
 # bitaddress.org
 JavaScript Client-Side Bitcoin Wallet Generator
 
